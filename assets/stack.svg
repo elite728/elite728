@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220">
+  <rect width="1280" height="220" rx="24" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1278" height="218" rx="23" fill="none" stroke="#243044"/>
+  <g font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif">
+    <g transform="translate(28,28)">
+      <rect width="292" height="164" rx="16" fill="#141A24" stroke="#2A3648"/>
+      <text x="22" y="36" font-size="12" letter-spacing="2" fill="#7A8CA0">INTERFACE</text>
+      <text x="22" y="70" font-size="18" font-weight="700" fill="#F4F7FB">React · Next.js · TS</text>
+      <text x="22" y="98" font-size="13" fill="#9AAEBF">Design systems, a11y, motion</text>
+      <text x="22" y="122" font-size="13" fill="#9AAEBF">Figma ’ production pixels</text>
+    </g>
+    <g transform="translate(338,28)">
+      <rect width="292" height="164" rx="16" fill="#141A24" stroke="#2A3648"/>
+      <text x="22" y="36" font-size="12" letter-spacing="2" fill="#7A8CA0">SERVICES</text>
+      <text x="22" y="70" font-size="18" font-weight="700" fill="#F4F7FB">Python · FastAPI · Node</text>
+      <text x="22" y="98" font-size="13" fill="#9AAEBF">APIs, jobs, event streams</text>
+      <text x="22" y="122" font-size="13" fill="#9AAEBF">Postgres · Redis · queues</text>
+    </g>
+    <g transform="translate(648,28)">
+      <rect width="292" height="164" rx="16" fill="#141A24" stroke="#2A3648"/>
+      <text x="22" y="36" font-size="12" letter-spacing="2" fill="#7A8CA0">INTELLIGENCE</text>
+      <text x="22" y="70" font-size="18" font-weight="700" fill="#F4F7FB">LLM · RAG · Agents</text>
+      <text x="22" y="98" font-size="13" fill="#9AAEBF">Evals, tracing, guardrails</text>
+      <text x="22" y="122" font-size="13" fill="#9AAEBF">LangGraph · OpenAI · local</text>
+    </g>
+    <g transform="translate(958,28)">
+      <rect width="294" height="164" rx="16" fill="#141A24" stroke="#2A3648"/>
+      <text x="22" y="36" font-size="12" letter-spacing="2" fill="#7A8CA0">DELIVERY</text>
+      <text x="22" y="70" font-size="18" font-weight="700" fill="#F4F7FB">Cloud · CI · Observability</text>
+      <text x="22" y="98" font-size="13" fill="#9AAEBF">AWS · Docker · GitHub Actions</text>
+      <text x="22" y="122" font-size="13" fill="#9AAEBF">SLOs, not just dashboards</text>
+    </g>
+  </g>
+</svg>
