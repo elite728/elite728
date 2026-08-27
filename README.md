@@ -1,7 +1,7 @@
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 <p>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Extensive+Experience+...;Certified+in+over+50+Skills...;built+over+30+Projects..."></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=Extensive+Experience+...;Certified+in+over+50+Skills...;Built+over+30+Projects..."></p>
  <p>I'm a Senior Full-Stack Engineer with over <b>extensive experience</b> specializing in cutting-edge <b>web development</b>, <b>AI</b> and <b>blockchain</b> solutions. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b>  and seamless <b>cloud computing</b>  integration. <br>Let's bring your project to life with innovative solutions and technologies!</p><b>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
@@ -9,14 +9,12 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50">
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50">
 </div>
 <br>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50">
 </div>
@@ -38,10 +36,9 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ruby,rails,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,nestjs,nodejs,express,go,cs,dotnet,ruby,rails,java,spring">
   </a>
 </p>
-<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <ul>
 <li>Database</li>
 </ul>
@@ -55,8 +52,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare"><br><br>
-    <img src="https://skillicons.dev/icons?i=vercel,kubernetes">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,vercel,kubernetes"><br><br>
   </a>
 </p>
 <ul>
@@ -68,7 +64,6 @@
   </a>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
 
 <p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
